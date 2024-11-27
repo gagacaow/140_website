@@ -1,0 +1,105 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Yechen(Gaga) Cao
+date: last-modified
+# phone: 123-456-7890
+# address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+email: gagacaow@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+github: gagacaow # github account
+#orcid: 0000-0002-1825-0097 # orcid identifier
+#osf: ymqui # osf five character id
+#twitter: twitter # twitter handle
+#web: quarto.org
+fontawesome: yes
+nocite: '@*'
+#bibliography: 
+#  peer: peer_bib.bib
+#  other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+# Education 
+*University of California, Los Angeles*, B.A. Statistics and Data Science \hfill 2025
+
+Relevant Courses: Advanced Statistics (R, Python and Java), Data Mining, Text Mining, Consulting, Statistic Modeling, Machine Learning, Financial Accounting, Applied Economics, Psychology
+
+
+# Work Experience
+
+*Arc'teryx*
+
+Product Guide \hfill 2024-2025
+
+- Delivered outstanding guest experiences by sharing technical product knowledge and providing tailored recommendations, consistently exceeding daily sales goals by at least 10%. 
+- Supported store operations, including inventory management, merchandising, and seamless processing of guest transactions, while acting as a passionate brand ambassador in-store and in the community.
+
+*UCLA Student Affair*
+
+Student Marketing and Operation Coordinator \hfill 2023-2025
+
+- Provided comprehensive information and guidance on campus resources and student services.
+- Collaborated with over 15 university departments, resulting in a 95% student satisfaction rate.
+- Implemented data-driven marketing strategies by analyzing foot traffic and student engagement patterns, leading to a 20% increase in student awareness of the newly opened service center.
+
+*Downtown Dolls*
+
+Modelling agent & Event planning \hfill 2023
+
+- Streamlined model recruitment by managing and analyzing over 200+ model profiles.
+- Managed social media platforms, utilizing data analysis to inform content creation, copywriting strategies, and user feedback analysis, resulting in 15% increase in engagement and brand visibility.
+- Spearheaded the planning and execution of local events for over 500 attendees.
+
+*Bloomage BioTechnology Corporation Limited*
+
+Brand Marketing Intern  \hfill 2022
+
+- Coordinated and executed large-scale events, captivating an audience of over 2000 attendees.
+- Focusing on brand naming and product testing, driving a new brand to the market.
+
+*MSC Consulting* 
+
+Brand Marketing Intern \hfill 2022
+
+- Coordinated and executed over 15 events, both in-person and virtual, including the technical setup and coordination of the company's virtual meeting platforms.
+- Helped with finalizing comprehensive reports for ESG campaigns, working with high-profile clients such as Nike, Adidas.
+
+\newpage
+
+# Project Experience 
+
+*Hollywood & Media Based Strategies To Combat Hatred and Stereotypes* 
+
+Research Assistant  \hfill 2024-2025
+
+- Collected and analyzed data on the relationship between Hollywood celebrities and political outcomes, building statistical models to identify correlations and trends.
+- Led research on the association between LGBTQ representation in films and social attitudes in Asia, constructing analytical models to explore the impact of media portrayal on societal views.
+
+*YouTube Analysis*  \hfill November 2024
+
+- Led the development and analysis of logistic regression models to predict the probability of above-average likes, identifying key predictors such as shares, new subscribers, and watch time.
+- Uncovered insights on interaction effects between shares and new subscribers, improving understanding of engagement patterns.
+
+*Amazon Order Regression*   \hfill August 2024
+
+- Directed the creation and refinement of over 10 predictive models to analyze order patterns, utilizing advanced regression techniques to improve demand forecasting accuracy.
+- Delivered actionable insights to optimize Amazon's order process, enhancing predictive accuracy and operational efficiency.
+
+
+# MISCELLANEOUS
+
+*Skills* 
+
+- Communication, Customer Service, Proficient in Event Organization and Management, Marketing, Canva, Program Management
+- Programming: Python, HTML, R/R Studio, Latex, Microsoft, Machine Learning, Statistical Modeling, Statistical Analysis, Marketing Analysis   
+- Social Media platforms: Instagram, Facebook, Photography, Digital Content Creation
+
+*Languages*
+
+- Chinese(Bilingual) English(Bilingual)
